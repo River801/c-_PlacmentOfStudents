@@ -1,0 +1,8 @@
+﻿  menu.cpp
+e:\c++\~final\final~c++2\final~c++2\menu.cpp(70): warning C4018: '<': signed/unsigned mismatch
+e:\c++\~final\final~c++2\final~c++2\menu.cpp(114): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+e:\c++\~final\final~c++2\final~c++2\menu.cpp(236): warning C4018: '<': signed/unsigned mismatch
+e:\c++\~final\final~c++2\final~c++2\menu.cpp(260): warning C4018: '>': signed/unsigned mismatch
+e:\c++\~final\final~c++2\final~c++2\menu.cpp(274): warning C4018: '<': signed/unsigned mismatch
+e:\c++\~final\final~c++2\final~c++2\menu.cpp(136): warning C4715: 'menu::studentsexpectations': not all control paths return a value
+  Final~C++2.vcxproj -> E:\C++\~Final\Final~C++2\Debug\Final~C++2.exe
